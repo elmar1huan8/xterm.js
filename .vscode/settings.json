@@ -1,5 +1,8 @@
 {
     "typescript.preferences.importModuleSpecifier": "non-relative",
     "typescript.preferences.quoteStyle": "single",
-    "mochaExplorer.envPath": ".mocha.env"
+    "mochaExplorer.envPath": ".mocha.env",
+    "java.completion.enabled": false,
+    "java.debug.settings.enableRunDebugCodeLens": false,
+    "java.test.editor.enableShortcuts": false
 }
